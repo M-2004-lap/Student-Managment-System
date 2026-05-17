@@ -132,9 +132,11 @@ student_management_system/
 ## 👥 Team
 *(Fill in your team members here)*
 
-- Student 1: ___________________
-- Student 2: ___________________
-- Student 3: ___________________
+- Student 1: Mohamed Ahmed Tarek
+- Student 2: Ahmed Yasser
+- Student 3: Ahmed Alsayed
+- Student 4: Abdul Rahman Rabie 
+  
 
 ---
 
